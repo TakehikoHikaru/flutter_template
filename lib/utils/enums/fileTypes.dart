@@ -1,0 +1,3 @@
+enum fileTypes {
+  geral,
+}

@@ -1,0 +1,11 @@
+{
+  "hello": "Olá",
+  "welcome_message": "Bem-vindo ao nosso app, {name}!",
+  "email": {
+    "profile_changed": {
+      "msg": "Ola {name}, seu perfil foi alterada.",
+      "subject": "Perfil alterada.",
+      "html": "Ola {name}, seu perfil foi alterada."
+    }
+  }
+}
